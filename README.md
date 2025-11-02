@@ -1,15 +1,15 @@
-<h1 align="center"> 𝐒𝐏𝐀𝐂𝐄 𝐌𝐃 </h1>
+<h1 align="center"> 𝐒AVAGE 𝐌𝐃 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/SPACE-MD">
-    <img alt="SPACE-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
+  <a href="https://github.com/Dark-Xploit/SAVAGE-MD">
+    <img alt="SAVAGE-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
   </a>
 </p>
     
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/SPACE-MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/SAVAGE-MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
